@@ -1,7 +1,8 @@
 # README
 
 ## Phase 1: Task Retrieval
-DONE
+`DONE`
+
 Retrieved tasks using project name "Traffic Sign Detection" and task status "completed"
 
 API used : https://api.scale.com/v1/tasks
