@@ -1,7 +1,12 @@
 # README
 
 ## Phase 1: Task Retrieval
-`<TODO>`
+DONE
+Retrieved tasks using project name "Traffic Sign Detection" and task status "completed"
+
+API used : https://api.scale.com/v1/tasks
+
+Authentication used - Bearer Token - base64 form of "my_api_key:"
 
 ## Phase 2: Have `one` interesting/exciting QC
 `<TODO>`
