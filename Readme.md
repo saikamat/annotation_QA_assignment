@@ -5,13 +5,15 @@
 
 Retrieved tasks using project name "Traffic Sign Detection" and task status "completed"
 
-API used : https://api.scale.com/v1/tasks
+API used : https://api.scale.com/v1/
 
 Authentication used - Bearer Token - base64 form of "my_api_key:"
 
 ## Phase 2: Have `one` interesting/exciting QC
 `DONE`
+
 To maintain consistency in labelling, annotation rules states __background_color “not_applicable” should be used only for the “non_visible_face” label__.
+
 The implemented QC makes sure that this convention is followed. 
 
 ## Phase 3: 
