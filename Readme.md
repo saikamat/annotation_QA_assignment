@@ -50,6 +50,7 @@ The implemented QC makes sure that this convention is followed.
 
 3. No low-light photos. check `timeofday` tag
 4. No photos at curves or roundabouts due to obscurity and poor angles
+5. Increasing level of severity based on the label. E.g. if error in traffic_signs, then higher priority than for information or policy signs.
 
 ### 3.2 Places of highest impact:-
 
